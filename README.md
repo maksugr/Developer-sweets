@@ -8,7 +8,7 @@ Here I will store my found: articles and books, scraps of thoughts, answers to q
 
 The most common material is English-language pages. Much less - the Russian-language (I'll tag them - rus).
 
-Will be updated.
+**Will be updated.**
 
 ####Javascript
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
