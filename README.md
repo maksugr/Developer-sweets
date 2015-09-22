@@ -10,9 +10,52 @@ The most common material is English-language pages. Much less - the Russian-lang
 
 **Will be updated.**
 
+####Different lists
+* https://github.com/sindresorhus/awesome#front-end-development
+
+####Future
+* http://tools.subtraction.com/ - statistic about different tools
+* http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results
+* https://medium.com/evil-martians/postcss-2nd-birthday-2c76c223c78f - postcss birthday
+* https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225 - way of javascript developer 2015
+
+####Books
+* http://eloquentjavascript.net/ - javascript
+* https://github.com/getify/You-Dont-Know-JS - javascript
+* https://leanpub.com/mean-machine?src=scotchio-sidebar - MEAN
+* https://leanpub.com/understandinges6/read/ - javascript2015
+
+####Education
+* https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw - free video lessons (LearnCode.academy)
+* https://learn.javascript.ru/ - javascript (rus)
+* http://alwayslearning.io/ - aggregator
+* http://megamozg.ru/post/19214/ - hude post (rus)
+* https://www.codeschool.com/
+* https://www.codecademy.com/
+* https://www.khanacademy.org/
+* http://lynda.com
+* https://egghead.io/
+* https://frontendmasters.com/
+
+####ES2015
+* http://kangax.github.io/compat-table/es6/#template_strings - browsers compatibility
+* https://github.com/lukehoban/es6features#enhanced-object-literals
+* http://www.sitepoint.com/preparing-ecmascript-6-let-const/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript - let and const
+* http://www.sitepoint.com/es6-now-template-strings/ - templete strings
+* http://www.sitepoint.com/understanding-ecmascript-6-template-strings/ - strings
+* http://www.sitepoint.com/preparing-ecmascript-6-new-number-methods/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript - numbers
+* http://www.sitepoint.com/preparing-ecmascript-6-new-array-methods/ - array
+* http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/?WT.mc_id=13390-DEV-sitepoint-article14 - classes
+* http://www.sitepoint.com/preparing-ecmascript-6-set-weakset/?utm_source=sitepoint&utm_medium=relatedsidebar&utm_term=javascript - set and weakset
+
 ####Javascript
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+* http://youmightnotneedjquery.com/ - how to live without jQuery
 * http://habrahabr.ru/post/260961/ (rus)
+* https://medium.com/@bojzi/overview-of-the-javascript-ecosystem-8ec4a0b7a7be
+* https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3 - graph in javascript
+* http://habrahabr.ru/post/260961/ - callback (rus)
+* http://habrahabr.ru/post/241161/ - async js (rus)
 
 ####Best practies for Javascript/Node.js programming
 * https://blog.risingstack.com/asynchronous-javascript/
@@ -21,11 +64,13 @@ The most common material is English-language pages. Much less - the Russian-lang
 * http://habrahabr.ru/company/piter/blog/265649/ (rus)
 * https://learn.javascript.ru/nodejs-screencast (rus)
 * http://nodeguide.ru/doc/# (rus)
+* http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html - node.js v4
 
 ####Angular.js
 * http://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background?rq=1 - greate answer!
 * https://thinkster.io/a-better-way-to-learn-angularjs/
 * http://codepen.io/m-e-conroy/pen/ALsdF - with bootstrap
+* https://scotch.io/bar-talk/angular-material-vs-material-design-lite - material design
 
 ####MEAN stack
 * https://thinkster.io/mean-stack-tutorial/
@@ -37,6 +82,8 @@ The most common material is English-language pages. Much less - the Russian-lang
 * http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918
 * http://www.nikola-breznjak.com/blog/codeproject/how-to-get-your-mean-stack-up-and-running-in-less-than-a-minute/
 * https://www.codeschool.com/pluralsight-courses/building-angularjs-and-node-js-apps-with-the-mean-stack
+* http://www.sitepoint.com/introduction-to-mean-stack/ - full-stack js
+* http://www.sitepoint.com/full-stack-javascript-development-mean/
 
 ####Jade
 * http://jade-lang.com/reference/
@@ -67,8 +114,9 @@ The most common material is English-language pages. Much less - the Russian-lang
 ####D3.js
 * http://stackoverflow.com/questions/24273932/data-visualization-beginner-learn-processing-d3-js-or-other-first
 
-####Yandex maps
-* http://tulov-alex.ru/2.1/geoobjects/circle (rus)
+####Maps
+* http://tulov-alex.ru/2.1/geoobjects/circle - yandex maps (rus)
+* https://snazzymaps.com/ - styling google maps
 
 ####CSS
 * http://habrahabr.ru/post/265451/ - css effects (rus)
@@ -79,39 +127,8 @@ The most common material is English-language pages. Much less - the Russian-lang
 * https://css-tricks.com/centering-css-complete-guide/ - centering
 * http://habrahabr.ru/post/23792/ - grid systems (rus)
 * http://ruseller.com/lessons.php?rub=2&id=937 (rus)
-
-####Design
-* http://www.youtube.com/watch?v=V-lg4ughTsM - polygons
-* http://dmesh.thedofl.com/
-* http://qrohlf.com/trianglify/
-* http://habrahabr.ru/post/183018/ - sketch (rus)
-* http://habrahabr.ru/post/239373/ -responsible (rus)
-* http://habrahabr.ru/post/255287/ - trends (rus)
-
-####Education
-* http://alwayslearning.io/ - aggregator
-* https://www.codeschool.com/
-* https://www.codecademy.com/
-* https://www.khanacademy.org/
-* http://lynda.com
-* https://egghead.io/
-
-####Community
-* https://www.codewars.com
-* https://www.livecoding.tv/
-* http://www.slacklist.com - slack lists
-* chats.directory
-* chitchats.co
-* http://www.slackchats.com
-
-####Books
-* http://eloquentjavascript.net/ - javascript
-
-####Inspiration
-* https://www.vodori.com
-* http://bigfuture.ru/ (rus)
-* http://musiccanbefun.edankwan.com/ - games (svg and etc)
-* http://www.endlessmural.com/
+* http://frontendbabel.info/articles/styling-placeholder-using-css/ - placeholder
+* http://habrahabr.ru/post/266895/ - progress bar (rus)
 
 ####Front-end plugins
 * http://www.unheap.com/ - hude aggregator
@@ -123,6 +140,30 @@ The most common material is English-language pages. Much less - the Russian-lang
 * https://github.com/tkahn/SmoothTouchScroll
 * https://github.com/mzubala/jquery-custom-scrollbar
 
+####Design
+* http://www.youtube.com/watch?v=V-lg4ughTsM - polygons
+* http://dmesh.thedofl.com/
+* http://qrohlf.com/trianglify/
+* http://habrahabr.ru/post/183018/ - sketch (rus)
+* http://habrahabr.ru/post/239373/ -responsible (rus)
+* http://habrahabr.ru/post/255287/ - trends (rus)
+
+####Community
+* https://www.codewars.com
+* https://www.livecoding.tv/
+* http://www.slacklist.com - slack lists
+* chats.directory
+* chitchats.co
+* http://www.slackchats.com
+
+####Inspiration
+* https://www.vodori.com
+* http://bigfuture.ru/ (rus)
+* http://musiccanbefun.edankwan.com/ - games (svg and etc)
+* http://www.endlessmural.com/
+* http://www.petas.it/ - parallax and others
+* http://crig.ga/ - greate style of resume
+
 ####Browser extensions
 * http://habrahabr.ru/post/254175/ (rus)
 * http://habrahabr.ru/post/254007/ (rus)
@@ -130,8 +171,23 @@ The most common material is English-language pages. Much less - the Russian-lang
 ####Searching for job
 * http://megamozg.ru/post/10570/ (rus)
 * http://megamozg.ru/post/10592/ (rus)
+* http://slackatwork.com/ - here and below untested links
+* hackerjobs.co.uk
+* www.jobisjob.co.uk 
+* uk.jobrapido.com 
+* www.thejobpost.co.uk 
+* londonstartupjobs.co.uk
+* uk.recruit.net 
+* www.simplyhired.co.uk 
+* www.talentrocket.co.uk 
+* jobs.trovit.co.uk
+* unicornhunt.io
+* workinstartups.com 
+* www.workable.com
+* www.workshape.io
 
 ####Different
 * http://ricardodsanchez.com/2015/08/31/programming-a-short-history-of-computer-languages/ - history of programming languges
 * http://megamozg.ru/company/friifond/blog/18824/ - way of front-end developer (rus)
 * http://rusbase.vc/news/biohakery/ - biohacking (rus)
+* https://medium.com/better-humans/the-beginners-guide-to-biohacking-5179b9967c16
