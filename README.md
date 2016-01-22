@@ -95,6 +95,11 @@ The most common material is English-language pages. Much less - the Russian-lang
 ####Regular expression
 * http://hugogiraudel.com/2015/08/19/learning-regular-expressions-the-practical-way/
 
+####SVG
+
+* https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/ - best perfomance
+* http://frontender.info/using-svg/ (rus)
+
 ####Raphael.js
 * http://raphaeljs.com/
 * http://cancerbero.mbarreneche.com/raphaeltut/
